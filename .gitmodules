@@ -1,0 +1,6 @@
+[submodule "lib/suppeort/hashlib"]
+	path = lib/suppeort/hashlib
+	url = git://github.com/brainfucker/hashlib.git
+[submodule "lib/support/hashlib"]
+	path = lib/support/hashlib
+	url = git://github.com/brainfucker/hashlib.git
